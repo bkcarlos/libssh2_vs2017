@@ -1,0 +1,29 @@
+﻿  agent.c
+  channel.c
+  comp.c
+  crypt.c
+  global.c
+  hostkey.c
+  keepalive.c
+  kex.c
+  knownhost.c
+  mac.c
+  mbedtls.c
+  misc.c
+  openssl.c
+  packet.c
+  pem.c
+  publickey.c
+  scp.c
+  session.c
+  sftp.c
+  transport.c
+  Generating Code...
+  Compiling...
+  userauth.c
+  version.c
+  wincng.c
+  Generating Code...
+libssl32MT.lib(libssl-1_1.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in libcrypto32MT.lib(libcrypto-1_1.dll); second definition ignored
+libssl32MT.lib(libssl-1_1.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  libssh2.vcxproj -> D:\libssh2-1.8.0\win32\.\Release_lib\libssh2.lib
